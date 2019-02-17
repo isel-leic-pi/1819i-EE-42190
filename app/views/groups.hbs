@@ -1,0 +1,11 @@
+<h2>Groups</h2>
+
+<ul style="list-group">
+    {{#each this}}
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+        <a id='nav#specificGroup' href="#specificGroup/{{id}}"> {{content.name}}</a>        
+        <small>{{content.description}}</small>
+        <span class="badge badge-primary badge-pill">{{content.teams.length}}</span>
+    </li>
+    {{/each}}
+</ul>

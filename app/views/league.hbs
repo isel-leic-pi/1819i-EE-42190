@@ -1,0 +1,14 @@
+<h2>{{competition.name}}</h2>
+<div class="list-group">
+    {{#each teams}}
+    <a href={{this.website}} class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">{{this.name}}</h5>
+            <small>Founded {{founded}}</small>
+        </div>
+        <p class="mb-1">{{this.address}}</p>
+        <small>[{{this.id}}]</small>
+    </a>
+    {{/each}}
+</div>
+

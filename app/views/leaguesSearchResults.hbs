@@ -1,0 +1,11 @@
+<div class="list-group">
+    {{#each competitions}}
+    <a href="#league/{{id}}/teams" class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">{{name}}</h5>          
+            <small>{{numberOfAvailableSeasons}} seasons available</small>  
+        </div>        
+        <small>{{area.name}}</small>
+    </a>
+    {{/each}}
+</div>

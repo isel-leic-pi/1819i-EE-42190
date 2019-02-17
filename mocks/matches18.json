@@ -1,0 +1,1935 @@
+{
+    "count": 34,
+    "filters": {
+        "permission": "TIER_ONE",
+        "limit": 100
+    },
+    "matches": [
+        {
+            "id": 235690,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-08-25T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 3,
+                "name": "Bayer 04 Leverkusen"
+            },
+            "referees": [
+                {
+                    "id": 57526,
+                    "name": "Christian Dingert",
+                    "nationality": null
+                },
+                {
+                    "id": 57514,
+                    "name": "Tobias Christ",
+                    "nationality": null
+                },
+                {
+                    "id": 57527,
+                    "name": "Timo Gerach",
+                    "nationality": null
+                },
+                {
+                    "id": 57519,
+                    "name": "Robert Schröder",
+                    "nationality": null
+                },
+                {
+                    "id": 43878,
+                    "name": "Felix Zwayer",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235702,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-09-01T13:30:00Z",
+            "status": "FINISHED",
+            "matchday": 2,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 16,
+                "name": "FC Augsburg"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": [
+                {
+                    "id": 57532,
+                    "name": "Frank Willenborg",
+                    "nationality": null
+                },
+                {
+                    "id": 43921,
+                    "name": "Guido Kleve",
+                    "nationality": null
+                },
+                {
+                    "id": 57537,
+                    "name": "Johann Pfeifer",
+                    "nationality": null
+                },
+                {
+                    "id": 57511,
+                    "name": "Markus Sinn",
+                    "nationality": null
+                },
+                {
+                    "id": 26174,
+                    "name": "Bibiana Steinhaus",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235706,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-09-15T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 3,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 6,
+                "name": "FC Schalke 04"
+            },
+            "referees": [
+                {
+                    "id": 57510,
+                    "name": "Manuel Gräfe",
+                    "nationality": null
+                },
+                {
+                    "id": 43921,
+                    "name": "Guido Kleve",
+                    "nationality": null
+                },
+                {
+                    "id": 57511,
+                    "name": "Markus Sinn",
+                    "nationality": null
+                },
+                {
+                    "id": 57716,
+                    "name": "Pascal Müller",
+                    "nationality": null
+                },
+                {
+                    "id": 15824,
+                    "name": "Sven Jablonski",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235717,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-09-22T13:30:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 4,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 9,
+                "name": "Hertha BSC"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235725,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-09-26T18:30:00Z",
+            "status": "FINISHED",
+            "matchday": 5,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 19,
+                "name": "Eintracht Frankfurt"
+            },
+            "referees": [
+                {
+                    "id": 15824,
+                    "name": "Sven Jablonski",
+                    "nationality": null
+                },
+                {
+                    "id": 57537,
+                    "name": "Johann Pfeifer",
+                    "nationality": null
+                },
+                {
+                    "id": 15409,
+                    "name": "Jan Seidel",
+                    "nationality": null
+                },
+                {
+                    "id": 9569,
+                    "name": "Mike Pickel",
+                    "nationality": null
+                },
+                {
+                    "id": 15408,
+                    "name": "Daniel Siebert",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235737,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-09-29T13:30:00Z",
+            "status": "FINISHED",
+            "matchday": 6,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 11,
+                "name": "VfL Wolfsburg"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": [
+                {
+                    "id": 43878,
+                    "name": "Felix Zwayer",
+                    "nationality": null
+                },
+                {
+                    "id": 43923,
+                    "name": "Thorsten Schiffner",
+                    "nationality": null
+                },
+                {
+                    "id": 43879,
+                    "name": "Marco Achmüller",
+                    "nationality": null
+                },
+                {
+                    "id": 15410,
+                    "name": "Lasse Koslowski",
+                    "nationality": null
+                },
+                {
+                    "id": 15825,
+                    "name": "Martin Petersen",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235743,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-10-06T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 2
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 5,
+                "name": "FC Bayern München"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": [
+                {
+                    "id": 57532,
+                    "name": "Frank Willenborg",
+                    "nationality": null
+                },
+                {
+                    "id": 43921,
+                    "name": "Guido Kleve",
+                    "nationality": null
+                },
+                {
+                    "id": 57511,
+                    "name": "Markus Sinn",
+                    "nationality": null
+                },
+                {
+                    "id": 57527,
+                    "name": "Timo Gerach",
+                    "nationality": null
+                },
+                {
+                    "id": 253,
+                    "name": "Harm Osmers",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235754,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-10-21T16:00:00Z",
+            "status": "FINISHED",
+            "matchday": 8,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 4,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 15,
+                "name": "1. FSV Mainz 05"
+            },
+            "referees": [
+                {
+                    "id": 57515,
+                    "name": "Sören Storks",
+                    "nationality": null
+                },
+                {
+                    "id": 57530,
+                    "name": "Thorben Siewer",
+                    "nationality": null
+                },
+                {
+                    "id": 43879,
+                    "name": "Marco Achmüller",
+                    "nationality": null
+                },
+                {
+                    "id": 254,
+                    "name": "Thomas Gorniak",
+                    "nationality": null
+                },
+                {
+                    "id": 9567,
+                    "name": "Sascha Stegemann",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235763,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-10-26T18:30:00Z",
+            "status": "FINISHED",
+            "matchday": 9,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 17,
+                "name": "SC Freiburg"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": [
+                {
+                    "id": 57504,
+                    "name": "Robert Hartmann",
+                    "nationality": null
+                },
+                {
+                    "id": 57505,
+                    "name": "Christian Leicher",
+                    "nationality": null
+                },
+                {
+                    "id": 57511,
+                    "name": "Markus Sinn",
+                    "nationality": null
+                },
+                {
+                    "id": 57512,
+                    "name": "Tobias Reichel",
+                    "nationality": null
+                },
+                {
+                    "id": 57542,
+                    "name": "Günter Perl",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235770,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-11-04T14:30:00Z",
+            "status": "FINISHED",
+            "matchday": 10,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 24,
+                "name": "TSV Fortuna 95 Düsseldorf"
+            },
+            "referees": [
+                {
+                    "id": 43875,
+                    "name": "Felix Brych",
+                    "nationality": null
+                },
+                {
+                    "id": 43877,
+                    "name": "Stefan Lupp",
+                    "nationality": null
+                },
+                {
+                    "id": 43953,
+                    "name": "Markus Häcker",
+                    "nationality": null
+                },
+                {
+                    "id": 57529,
+                    "name": "Robert Kampka",
+                    "nationality": null
+                },
+                {
+                    "id": 57542,
+                    "name": "Günter Perl",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235779,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-11-10T14:30:00Z",
+            "status": "FINISHED",
+            "matchday": 11,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:18Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 12,
+                "name": "SV Werder Bremen"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": [
+                {
+                    "id": 57515,
+                    "name": "Sören Storks",
+                    "nationality": null
+                },
+                {
+                    "id": 57530,
+                    "name": "Thorben Siewer",
+                    "nationality": null
+                },
+                {
+                    "id": 57520,
+                    "name": "Frederick Assmuth",
+                    "nationality": null
+                },
+                {
+                    "id": 338,
+                    "name": "Norbert Grudzinski",
+                    "nationality": null
+                },
+                {
+                    "id": 57542,
+                    "name": "Günter Perl",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 235787,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-11-25T17:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 12,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 8,
+                "name": "Hannover 96"
+            },
+            "referees": []
+        },
+        {
+            "id": 235802,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-12-02T14:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 13,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 721,
+                "name": "RB Leipzig"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235806,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-12-09T17:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 14,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 10,
+                "name": "VfB Stuttgart"
+            },
+            "referees": []
+        },
+        {
+            "id": 235818,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-12-15T14:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 15,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 2,
+                "name": "TSG 1899 Hoffenheim"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235824,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-12-18T17:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 16,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 14,
+                "name": "1. FC Nürnberg"
+            },
+            "referees": []
+        },
+        {
+            "id": 235831,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2018-12-21T19:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 17,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 4,
+                "name": "BV Borussia 09 Dortmund"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235844,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-01-19T14:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 18,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 3,
+                "name": "Bayer 04 Leverkusen"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235851,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-01-26T14:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 19,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 16,
+                "name": "FC Augsburg"
+            },
+            "referees": []
+        },
+        {
+            "id": 235859,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-02-02T17:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 20,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 6,
+                "name": "FC Schalke 04"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235869,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-02-09T14:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 21,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 9,
+                "name": "Hertha BSC"
+            },
+            "referees": []
+        },
+        {
+            "id": 235875,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-02-15T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 22,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 19,
+                "name": "Eintracht Frankfurt"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235887,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-02-22T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 23,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 11,
+                "name": "VfL Wolfsburg"
+            },
+            "referees": []
+        },
+        {
+            "id": 235898,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-03-01T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 24,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 5,
+                "name": "FC Bayern München"
+            },
+            "referees": []
+        },
+        {
+            "id": 235908,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-03-08T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 25,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 15,
+                "name": "1. FSV Mainz 05"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235915,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-03-15T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 17,
+                "name": "SC Freiburg"
+            },
+            "referees": []
+        },
+        {
+            "id": 235925,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-03-29T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 27,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 24,
+                "name": "TSV Fortuna 95 Düsseldorf"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235932,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-04-05T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 28,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 12,
+                "name": "SV Werder Bremen"
+            },
+            "referees": []
+        },
+        {
+            "id": 235943,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-04-12T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 29,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 8,
+                "name": "Hannover 96"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235949,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-04-19T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 30,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 721,
+                "name": "RB Leipzig"
+            },
+            "referees": []
+        },
+        {
+            "id": 235958,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-04-26T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 31,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 10,
+                "name": "VfB Stuttgart"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235968,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-05-03T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 32,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 2,
+                "name": "TSG 1899 Hoffenheim"
+            },
+            "referees": []
+        },
+        {
+            "id": 235977,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-05-10T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 33,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 14,
+                "name": "1. FC Nürnberg"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": []
+        },
+        {
+            "id": 235986,
+            "competition": {
+                "id": 2002,
+                "name": "Bundesliga"
+            },
+            "season": {
+                "id": 155,
+                "startDate": "2018-08-24",
+                "endDate": "2019-05-18",
+                "currentMatchday": 11,
+                "winner": null
+            },
+            "utcDate": "2019-05-17T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2018-11-11T16:00:27Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "awayTeam": {
+                "id": 4,
+                "name": "BV Borussia 09 Dortmund"
+            },
+            "referees": []
+        }
+    ]
+}

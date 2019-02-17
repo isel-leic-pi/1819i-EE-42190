@@ -1,0 +1,17 @@
+<h1>{{content.name}}</h1>
+
+<p>{{content.description}}</p>
+
+<div class="container">
+  <div class="row">
+    {{#each content.teams}}
+    <div class="col-sm-4 py-2">
+      <a class="card h-30 card-body" href={{this.website}}>
+        <img class="card-img-top" src={{this.crestUrl}} alt="Card image cap">      
+          <p class="id"> <b> Id : </b> {{this.id}} </p>
+          <p class="name"> <b> Name : </b> {{this.name}} </p>                  
+      </a>    
+  </div>
+  {{/each}}
+</div>
+</div>

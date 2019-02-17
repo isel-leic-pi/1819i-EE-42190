@@ -1,0 +1,9 @@
+<ul class="list-group">
+    {{#each this}}
+        <li class="list-group-item">
+            <p><b>{{homeTeam.name}}</b> {{score.fullTime.homeTeam}} - <b>{{awayTeam.name}}</b> {{score.fullTime.awayTeam}}</p>
+            <p>Referee - {{referees.0.name}}</p>
+            <p>{{competition.name}} - {{utcDate}}</p>
+        </li>
+    {{/each}}
+</ul>

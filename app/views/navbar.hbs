@@ -1,0 +1,37 @@
+<div class="page-header">
+    <div class="pull-left">
+        <nav class="navbar navbar-expand-lg">
+            <ul class="navbar-nav mr-auto nav-pills">
+                <ul class="nav nav-pills">
+                    <li class="nav-item">
+                        <a id='nav#index' class="nav-link" href="#index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id='nav#leaguesSearch' class="nav-link" href="#leaguesSearch">Leagues<span class="sr-only">(current)</span></a>
+                    </li>
+                    {{#if auth}}
+                    <li class="nav-item">
+                        <a id='nav#groups' class="nav-link" href="#groups">Groups<span class="sr-only">(current)</span></a>
+                    </li>
+                    {{/if}}
+                    <li class="nav-item" id="liAuth">
+                        {{#if auth}}
+                        <a id="nav#signout" href="#signout" class="nav-link">Sign Out</a>
+                        {{else}}
+                        <a id="nav#login" href="#login" class="nav-link">Login</a>
+                        {{/if}}
+                    </li>
+                </ul>
+        </nav>
+    </div>
+    <div class="pull-right">
+        <h3 class="text-right">
+            {{#if auth}}
+            <small class="navbar-text">
+                Signed in as <font color="#33adff">{{username}}</font>!             
+            </small>
+            {{/if}}
+        </h3>
+    </div>
+    <div class="clearfix"></div>
+</div>
